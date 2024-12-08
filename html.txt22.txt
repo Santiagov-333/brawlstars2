@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Brawl Stars: Un emocionante juego de acción en línea creado por Supercell. Descubre su mundo, personajes y más.">
+    <meta name="keywords" content="Brawl Stars, Supercell, juego de acción, multijugador, online, videojuegos">
+    <title>Brawl Stars</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Brawl Stars</h1>
+        <p>Explora el emocionante juego de acción en línea de Supercell.</p>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Imagen del Juego</h2>
+            <img src="https://link-a-imagen-del-juego.com/imagen.jpg" alt="Captura de pantalla de Brawl Stars mostrando personajes en acción">
+        </section>
+
+        <section>
+            <h2>Trailer del Juego</h2>
+            <video width="640" height="360" controls>
+                <source src="https://link-a-video.com/trailer.mp4" type="video/mp4">
+                Tu navegador no soporta reproducción de video.
+            </video>
+            <p>Disfruta del emocionante trailer de Brawl Stars.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Supercell. Todos los derechos reservados.</p>
+        <nav>
+            <a href="#header">Inicio</a> | <a href="https://supercell.com">Página oficial</a>
+        </nav>
+    </footer>
+</body>
+</html>
